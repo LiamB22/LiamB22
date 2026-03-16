@@ -5,8 +5,8 @@ Most recently I've been tinkering with old hardware and distro hopping.
 
 ### Languages
 [<img align="left" alt="link C++" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg">][Cpplogo]
-[<img align="left" alt="link C++" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg">][Cpplogo]
 [<img align="left" alt="link C++" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg">][Cpplogo]
+[<img align="left" alt="link C++" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg">][Cpplogo]
 [<img align="left" alt="link C" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg">][Cpplogo]
 [<img align="left" alt="link javascript" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg">][Cpplogo]
 [<img align="left" alt="link HTML" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg">][Cpplogo]
