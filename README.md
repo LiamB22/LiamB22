@@ -1,4 +1,4 @@
-## Welcome! 🪐
+## Hello, I'm Liam Brady. Welcome to my github! 🪐
 
 My interests include operating systems, game development, graphics and high performance computing.
 Most recently I've been tinkering with old hardware and distro hopping.
@@ -11,6 +11,7 @@ Most recently I've been tinkering with old hardware and distro hopping.
 [<img align="left" alt="link HTML" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg">][Cpplogo]
 [<img align="left" alt="link css" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg">][Cpplogo]
 [<img align="left" alt="link nodejs" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg">][Cpplogo]
+
 [Cpplogo]: https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg
 
 <!--
